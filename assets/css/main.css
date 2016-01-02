@@ -59,7 +59,7 @@
   margin-left: .2em;
 
   /* you can be more comfortable with increased icons size */
-  font-size: 110%;
+  font-size: 100%;
 
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
@@ -90,7 +90,7 @@ body {
   height: 100%;
   max-height: 100%;
   font-family: 'Lora', serif;
-  font-size: 1.25em;
+  font-size: 1.15em;
   line-height: 1.45em;
   color: #3A4145;
 }
